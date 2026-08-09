@@ -5,6 +5,11 @@
     "version": "1.0.0",
     "android": {
       "package": "com.samiq123.torrente"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "df2e9bf5-f117-4c60-bd55-c0268dac6d30"
+      }
     }
   }
 }
