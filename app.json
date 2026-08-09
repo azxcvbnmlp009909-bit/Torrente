@@ -1,11 +1,10 @@
 {
-  "build": {
-    "preview": {
-      "distribution": "internal",
-      "android": {
-        "buildType": "apk"
-      }
-    },
-    "production": {}
+  "expo": {
+    "name": "Torrente",
+    "slug": "torrente",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.samiq123.torrente"
+    }
   }
 }
