@@ -1,29 +1,10 @@
 {
   "expo": {
-    "name": "moody-yellow-salsa",
-    "slug": "snack-10bc0b8e-07c6-4b20-a480-34c3848de1da",
+    "name": "Torrente",
+    "slug": "torrente",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.samiq123.torrente"
     }
   }
 }
