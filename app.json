@@ -1,15 +1,13 @@
 {
   "expo": {
     "name": "Torrente",
-    "slug": "torrente",
+    "slug": "Torrente",
     "version": "1.0.0",
+    "owner": "samiq123s-team",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
     "android": {
       "package": "com.samiq123.torrente"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "df2e9bf5-f117-4c60-bd55-c0268dac6d30"
-      }
     }
   }
 }
