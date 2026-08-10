@@ -6,6 +6,9 @@
     "owner": "samiq123s-team",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
     "android": {
       "package": "com.samiq123.torrente"
     },
